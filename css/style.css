@@ -1,0 +1,48 @@
+html, body
+{
+height: 100%;
+
+}
+body {
+	background-image: url('../img/dark_wood.png');
+	background-size: cover;
+}
+h1
+{
+padding: 15px;
+font-family: cursive;
+color: white;
+}
+p
+{
+  font-family: 'Sacramento', cursive;
+	color: white;
+}
+.generator
+{
+  padding: 25px;
+  height: 300px;
+  width: 400px;
+  background: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 0 62px rgba(0,0,0,0.1);
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+.quote
+{
+font-size: 20px;
+padding: 10px;
+font-family: 'Roboto Mono', monospace;
+}
+.author
+{
+  font-size: 16px;
+  font-family: 'Sriracha', cursive;
+}
